@@ -16,4 +16,6 @@ Key features include:
 
 * **Efficiency:** By centralizing syllabus management, the project aims to improve administrative efficiency within universities. It provides comprehensive support for syllabus creation, modification, and dissemination.
 
-**Conclusion:** The Syllabus Generator offers a centralized repository for syllabus management, benefiting both professors and program chairs. Its implementation reduces manual effort, ensures data accuracy, and enhances overall administrative efficiency within universities.
+**Conclusion** 
+
+The Syllabus Generator offers a centralized repository for syllabus management, benefiting both professors and program chairs. Its implementation reduces manual effort, ensures data accuracy, and enhances overall administrative efficiency within universities.
